@@ -1,7 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.AI;
 using OpenAI;
-using OpenAI.Chat;
 using ChatMessage = Microsoft.Extensions.AI.ChatMessage;
 
 //https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-chat-app?tabs=azd&pivots=openai

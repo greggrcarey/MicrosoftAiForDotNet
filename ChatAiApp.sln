@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAiApp", "ChatAiApp\ChatAiApp.csproj", "{9DC0AF6E-986F-4E5D-8F11-1ADF13578F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDataAi", "VectorDataAi\VectorDataAi.csproj", "{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9DC0AF6E-986F-4E5D-8F11-1ADF13578F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC0AF6E-986F-4E5D-8F11-1ADF13578F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC0AF6E-986F-4E5D-8F11-1ADF13578F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

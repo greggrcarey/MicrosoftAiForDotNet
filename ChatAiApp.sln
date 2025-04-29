@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAiApp", "ChatAiApp\Chat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDataAi", "VectorDataAi\VectorDataAi.csproj", "{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionCallingAi", "FunctionCallingAi\FunctionCallingAi.csproj", "{3BCE2639-B465-49F2-B7C6-23E96963F9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C96E57-B73D-4A0C-9A3F-AB7A649B9145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

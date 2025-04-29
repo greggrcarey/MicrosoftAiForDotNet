@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDataAi", "VectorDataA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionCallingAi", "FunctionCallingAi\FunctionCallingAi.csproj", "{3BCE2639-B465-49F2-B7C6-23E96963F9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesAI", "ImagesAI\ImagesAI.csproj", "{4FAD609C-0657-479D-AB6B-20F1C00D6371}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BCE2639-B465-49F2-B7C6-23E96963F9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAD609C-0657-479D-AB6B-20F1C00D6371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAD609C-0657-479D-AB6B-20F1C00D6371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAD609C-0657-479D-AB6B-20F1C00D6371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAD609C-0657-479D-AB6B-20F1C00D6371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
